@@ -5,4 +5,5 @@ fool screentest
 </br>
 自带蓝屏 效果
 </br>
-bule screen
+bule screen</br>
+ https://haocity.github.io/screentest-fool/
